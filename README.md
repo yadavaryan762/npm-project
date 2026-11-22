@@ -2,10 +2,9 @@
 
 > A personal productivity app built with React, Vite, and [safe-storage-lite](https://www.npmjs.com/package/safe-storage-lite) — a custom NPM package for safe, feature-rich localStorage management.
 
-## Screenshot
+🔗 **Live Demo**: [https://yadavaryan762.github.io/npm-project/](https://yadavaryan762.github.io/npm-project/)
 
-> _Open the app in your browser and start managing tasks!_
-> `npm run dev` → http://localhost:5173
+📁 **Repository**: [https://github.com/yadavaryan762/npm-project](https://github.com/yadavaryan762/npm-project)
 
 ---
 
